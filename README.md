@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/hqfE5v9jYfMZa/giphy.gif" width="200" alt="futuristic robot animation"/>
+<img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=800&q=80" width="50%" alt="Tech Professional Workspace"/>
 
 # 🦾 Mubasher Ahmed  
 ### Mechatronics & AI Engineer • Tech Visionary • Futurist
@@ -40,9 +40,9 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/SolidWorks-EF1C24?style=for-the-badge&logo=solidworks&logoColor=white"/>
   <img src="https://img.shields.io/badge/Simulink-FF8000?style=for-the-badge&logo=mathworks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/ROS-FADA5E?style=for-the-badge&logo=ros&logoColor=black"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EasyEDA-4CAF50?style=for-the-badge&logo=easyeda&logoColor=white"/>
 </p>
 
 ---
