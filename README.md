@@ -49,7 +49,7 @@
 
 ## 🚀 Projects from the Future
 
-- 🛰️ [Portfolio Website](https://github.com/Mubasher-Ahmed-I/Portfolio) – My digital launchpad
+- 🛰️ [Portfolio Website](https://portfolio-mubasher.vercel.app/) – My digital launchpad
 - 🤖 Autonomous Robotics – Intelligent machines for a smarter world
 - 🧬 AI Predictive Engines – Data-driven solutions for tomorrow’s challenges
 
