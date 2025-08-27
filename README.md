@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=800&q=80" width="50%" alt="Tech Professional Workspace"/>
+<img src="Assets/cover_photo.png?auto=format&fit=crop&w=800&q=80" width="50%" alt="Tech Professional Workspace"/>
 
 # 🦾 Mubasher Ahmed  
 ### Mechatronics & AI Engineer • Tech Visionary • Futurist
