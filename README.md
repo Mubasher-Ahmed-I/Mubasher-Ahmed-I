@@ -57,8 +57,8 @@
 
 ## 🌐 Connect & Collaborate
 
-- 💼 **LinkedIn:** [Your link here!](https://www.linkedin.com/in/-mubasher-ahmed)
-- ✉️ **Email:** [Your email here!](mailto:mubashirahmed7086@gmail.com)
+- 💼 **LinkedIn:** [link here!](https://www.linkedin.com/in/-mubasher-ahmed)
+- ✉️ **Email:** [email here!](mailto:mubashirahmed7086@gmail.com)
 - 🌐 **Portfolio:** [Portfolio Website](https://portfolio-mubasher.vercel.app/)
 
 ---
